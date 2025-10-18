@@ -4,8 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-mainsito',
   imports: [],
   templateUrl: './mainsito.html',
-  styles: ``
+  styles: ``,
 })
-export class Mainsito {
-
-}
+export class Mainsito {}

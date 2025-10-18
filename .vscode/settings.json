@@ -1,0 +1,7 @@
+{
+  "editor.tabCompletion": "off",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.suggest.insertMode": "replace",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true
+}
