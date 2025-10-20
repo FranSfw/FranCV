@@ -1,2 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 @import 'tailwindcss';
+
+.dot-pattern {
+  background-color: #ffffff;
+  background-image: radial-gradient(#ae934d 1.4px, transparent 1.4px), radial-gradient(#ae934d 1.4px, #ffffff 1.4px);
+  background-size: 56px 56px;
+  background-position: 0 0, 28px 28px;
+  z-index: -10;
+}
+
+
+
