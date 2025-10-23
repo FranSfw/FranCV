@@ -2,12 +2,9 @@
 @import 'tailwindcss';
 
 .dot-pattern {
-  background-color: #ffffff;
-  background-image: radial-gradient(#ae934d 1.4px, transparent 1.4px), radial-gradient(#ae934d 1.4px, #ffffff 1.4px);
-  background-size: 56px 56px;
-  background-position: 0 0, 28px 28px;
-  z-index: -10;
+  background-color: #1F1F1F;
+  background-image: radial-gradient(#333333 1px, transparent 1px);
+  background-size: 20px 20px;
 }
-
 
 
